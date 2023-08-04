@@ -1,5 +1,5 @@
 <h1 align="center">Игра в пары</h1> 
-<img display="block" align="center" src="https://github.com/GrigoryBoykov/illustrations/blob/main/couple/2x2.png">
+<img display="inline-block" align="center" src="https://github.com/GrigoryBoykov/illustrations/blob/main/couple/2x2.png">
 
 <h2>Описание функционала</h2>
 * В первую очередь предлагается выбрать размер nxn игрового поля. 
